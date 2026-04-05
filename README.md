@@ -9,6 +9,5 @@ I’m a passionate Computer Science undergraduate specializing in Artificial Int
 ![](https://nirzak-streak-stats.vercel.app/?user=FahadNawazKhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadNawazKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FahadNawazKhan&icon=0&color=0)](https://visitcount.itsvg.in)
