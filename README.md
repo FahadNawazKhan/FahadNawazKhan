@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Mohammad Fahad Nawaz Khan</h1>
+  
   <p><strong>Full-stack developer focused on building real-world systems and AI-powered applications.</strong></p>
   <p>Backend-focused. Product-driven. Currently building scalable web apps.</p>
 
