@@ -24,9 +24,9 @@ const fahad = {
   currentFocus: ["full-stack development", "backend systems", "applied AI/ML"],
   
   building: [
-  "scalable backend systems and APIs",
+  "Scalable backend systems and APIs",
   "AI-powered applications with real-world use cases",
-  "full-stack web apps with production-style architecture"
+  "Full-stack web apps with production-style architecture"
 ],
 
   worksWith: ["freelance", "projects", "collaborations"],
