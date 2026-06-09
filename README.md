@@ -2,7 +2,7 @@
   <h1>Mohammad Fahad Nawaz Khan</h1>
   
   <p><strong>Full-stack developer focused on building real-world systems and AI-powered applications.</strong></p>
-  <p>Backend-focused. Product-driven. Currently building scalable web apps.</p>
+  <p>Backend-focused. Product-driven. Currently building scalable web applications.</p>
 
   <p>
     <a href="https://linkedin.com/in/mohammed-fahad-nawaz-khan-9b4247311">
