@@ -21,7 +21,7 @@
 
 ```ts
 const fahad = {
-  currentFocus: ["full-stack development", "backend systems", "applied AI/ML"],
+  currentFocus: ["full-stack development", "backend systems", "Applied AI/ML"],
   
   building: [
   "Scalable backend systems and APIs",
